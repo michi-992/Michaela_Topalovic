@@ -1,0 +1,19 @@
+{
+  "name": "michaela_topalovic",
+  "version": "1.0.0",
+  "description": "PsC-TDD ILV bcc22w VZ SS2025 - Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Michaela Topalovic",
+  "license": "ISC",
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "@tsconfig/node20": "^20.1.5",
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.3.1",
+    "typescript": "^5.8.3"
+  }
+}
