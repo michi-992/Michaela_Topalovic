@@ -10,7 +10,7 @@ https://dev.to/ghostaram/configuring-jest-for-typescript-unit-tests-4iag
 
 ----------------------------------------------------------------------------------------------------------
 
-I decided to split the project into the four parts of the assignment and have one .md file in each of them for written elaboration on my steps or the wanted explanations for the parts according to the assignment. I have included some optional extensions inside folder 'Part 4'.
+I decided to split the project into the four parts of the assignment and have one .md file in each of them for written elaboration on my steps or the wanted explanations for the parts according to the assignment. Each 'Part *' folder has only the files that have been edited in that part (so imports could refer to files in other 'Part *' folders). I have included some optional extensions inside folder 'Part 4'.
 
 Project Setup:
 - Part_1 (folder)
@@ -27,13 +27,7 @@ Project Setup:
     - `Additional_Documentation.md` (extra info for the solution of the task/documentation)
 - Part_3 (folder)
     - `__tests__` (folder for unit testing files)
-        - `Customer.test.ts`
         - `Order.test.ts`
-        - `Product.test.ts`
-    - `classes` (folder for classes)
-        - `Customer.ts`
-        - `Order.ts`
-        - `Product.ts`
     - `Additional_Documentation_and_Explanation.md` (extra info for the solution of the task/documentation)
 - Part_4 (folder)
     - `__tests__` (folder for unit testing files)

@@ -1,6 +1,6 @@
-import { Customer } from "../classes/Customer"
-import { Product } from "../classes/Product";
-import { Order } from "../classes/Order";
+import { Customer } from "../../Part_2/classes/Customer"
+import { Product } from "../../Part_2/classes/Product";
+import { Order } from "../../Part_2/classes/Order";
 
 describe("Order - Mocked Dependencies", () => {    
     it("should generate correct order summary", () => {
